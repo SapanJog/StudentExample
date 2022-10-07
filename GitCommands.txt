@@ -1,0 +1,7 @@
+SignUP
+Create Repository SpringBootRepo
+git clone https://github.com/SapanJog/SpringBootRepo.git
+Repo is downloaded on Local with README.md
+
+git clone https://github.com/SapanJog/SpringBootRepo.git
+
