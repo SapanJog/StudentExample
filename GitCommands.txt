@@ -8,3 +8,7 @@ git clone https://github.com/SapanJog/SpringBootRepo.git
 git add 'file name'
 git commit -m 'msg'
 git push origin
+git remote -v
+git remote add reponame repourl
+git branch 
+git checkout -b branchname
