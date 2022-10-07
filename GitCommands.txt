@@ -12,3 +12,6 @@ git remote -v
 git remote add reponame repourl
 git branch 
 git checkout -b branchname
+git log -5 --online
+git gui
+git push origin branchname
