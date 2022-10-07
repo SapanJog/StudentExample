@@ -5,3 +5,6 @@ Repo is downloaded on Local with README.md
 
 git clone https://github.com/SapanJog/SpringBootRepo.git
 
+git add 'file name'
+git commit -m 'msg'
+git push origin
