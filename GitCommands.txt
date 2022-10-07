@@ -15,3 +15,5 @@ git checkout -b branchname
 git log -5 --online
 git gui
 git push origin branchname
+git push origin branchname
+git pull
